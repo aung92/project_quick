@@ -10,7 +10,7 @@ body{
 }
 
 header{
-	padding: 20px 0;
+	padding: 10px 0;
 	border-bottom: 1px solid #f2f3f5;
 	overflow: hidden;
 }
@@ -47,7 +47,7 @@ header{
 	color: #555;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 18px;
+	font-size: 15px;
 	margin: 0 15px;
 	text-transform: capitalize;
 
